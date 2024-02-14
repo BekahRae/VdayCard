@@ -1,0 +1,17 @@
+body{
+    background-color: #f895ff;
+    text-decoration-color: aqua;
+    font-family: cursive;
+    font-size: medium;
+}
+
+header{
+    text-decoration-color: aqua;
+    font-family: cursive;
+    font-size: larger;
+    padding-left: 38%;
+}
+
+image{
+    padding-left: 35%;
+}
